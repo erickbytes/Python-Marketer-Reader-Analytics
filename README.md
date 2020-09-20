@@ -3,7 +3,7 @@ Where in the world do people read about Python?
 
 This is dataset is a combination of:
 
-1) Python Marketer blog reader data collected by Wordpress, my blogging platform.
+1) Python Marketer blog (pythonmarketer.com) reader data collected by Wordpress, my blogging platform.
 
 2) The "Population by Country - 2020" dataset from Kaggle.
 
