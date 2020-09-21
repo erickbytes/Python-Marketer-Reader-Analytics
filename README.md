@@ -7,6 +7,6 @@ This is dataset is a combination of:
 
 2) The "Population by Country - 2020" dataset from Kaggle.
 
-In the "Calculating Learner Coefficient by Country" jupyter notebook, i'm playing around with a "Learner Coefficient",
+In the "Calculating Python Per Capita Coefficient by Country" jupyter notebook, i'm playing around with a "Learner Coefficient",
 which is my attempt at a population adjusted ranking for comparing significance of readers against their nation's population size.
 
